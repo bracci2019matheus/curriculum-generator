@@ -1,7 +1,7 @@
 # 🧾 Gerador de Currículos em PHP
 
 ## 👨‍💻 Desenvolvido por:
-**Acadêmico:** Matheus Bracci  
+**Acadêmico:**Willians Matheus Bracci de oliveira  
 **R.A:** 09051777  
 **Curso:** Análise e Desenvolvimento de Sistemas  
 **Polo:** UNIPAR EAD  
